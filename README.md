@@ -14,4 +14,7 @@ Easily customizable mod updater for Gorilla Tag on both Meta Quest Link and Stea
   - The Requests library. To install, run the command `python -m pip install requests`
   - The Requests library. To install, run the command `pip install getch`
 
+
+
+
 If you have any questions, contact me on Discord with my username `1benpro` or at this link: https://discord.com/users/836303061953675324
