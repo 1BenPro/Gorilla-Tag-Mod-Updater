@@ -12,7 +12,7 @@ Easily customizable mod updater for Gorilla Tag on both Meta Quest Link and Stea
   ### Unix Based Operating Systems
   - [Python 3](https://www.python.org/downloads/source/) (https://www.python.org/downloads/source/)
   - The Requests library. To install, run the command `python -m pip install requests`
-  - The Requests library. To install, run the command `pip install getch`
+  - Getch. To install, run the command `pip install getch`
 
 
 
