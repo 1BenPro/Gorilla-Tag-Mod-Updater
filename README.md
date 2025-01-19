@@ -27,3 +27,7 @@ Easily customizable mod updater for Gorilla Tag on both Meta Quest Link and Stea
 
 
 If you have any questions, contact me on Discord with my username `1benpro` or at this link: https://discord.com/users/836303061953675324
+
+
+# To do:
+  - add Oculus users support
